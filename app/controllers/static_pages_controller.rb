@@ -12,7 +12,7 @@ class StaticPagesController < ApplicationController
   def contact
   end
   
-  def test_broken_image
+  def test_broken_image2
   end
   
   def test_broken_link
