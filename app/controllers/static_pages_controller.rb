@@ -14,4 +14,7 @@ class StaticPagesController < ApplicationController
   
   def test_broken_image
   end
+  
+  def test_broken_link
+  end  
 end
