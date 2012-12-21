@@ -3,6 +3,7 @@ SampleApp::Application.routes.draw do
   get "static_pages/help"
   get "static_pages/about"
   get "static_pages/contact"
+  get "static_pages/test_broken_link"
   get "static_pages/test_broken_image"
   get "static_pages/test_broken_video_embed"
 
