@@ -1,0 +1,7 @@
+<% provide(:title, 'Test Broken Video Embed') %>
+<h1>Test Broken Video Embed</h1>
+<p>
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/BnUnTCbzmXI" frameborder="0" allowfullscreen></iframe>
+</p>
+
+

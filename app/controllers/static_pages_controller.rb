@@ -17,4 +17,7 @@ class StaticPagesController < ApplicationController
   
   def test_broken_link
   end  
+  
+  def test_broken_video_embed
+  end  
 end
