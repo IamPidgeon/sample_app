@@ -2,7 +2,7 @@
 <h1>Test Broken Video Embed</h1>
 <p>
 	#added 123 below to src
-	<iframe width="560" height="315" src="123http://www.youtube.com/embed/BnUnTCbzmXI" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/BnUnTCbzmXI" frameborder="0" allowfullscreen></iframe>
 </p>
 
 
