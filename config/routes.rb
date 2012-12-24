@@ -12,7 +12,7 @@ SampleApp::Application.routes.draw do
   get "static_pages/test_broken_link"
   get "static_pages/test_broken_image2"
   get "static_pages/test_broken_image3"
-  get "static_pages/test_broken_video_embed"
+  #get "static_pages/test_broken_video_embed"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
