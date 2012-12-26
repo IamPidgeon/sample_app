@@ -9,7 +9,7 @@ SampleApp::Application.routes.draw do
   match '/about',   to: 'static_pages#about'
   match '/contact', to: 'static_pages#contact'
 
-  #get "static_pages/test_broken_link"
+  get "static_pages/test_broken_link"
   get "static_pages/test_broken_image2"
   get "static_pages/test_broken_image3"
   #get "static_pages/test_broken_video_embed"
